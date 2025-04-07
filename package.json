@@ -1,8 +1,10 @@
 {
-  "name": "vpm-package",
-  "version": "0.0.0",
-  "displayName": "",
+  "name": "numeira.auto-certify-copyright-agreement",
+  "version": "1.0.0",
+  "displayName": "Auto Certify Copyright Agreement",
   "description": "",
-  "url" : "",
-  "vpmDependencies" : { }
+  "url" : "https://github.com/Rerigferl/auto-certify-copyright-agreement",
+  "vpmDependencies" : {
+    "com.vrchat.base": "^3.8.0"
+  }
 }
