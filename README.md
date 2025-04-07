@@ -1,5 +1,5 @@
 # auto-certify-copyright-agreement
-ビルド後に出てくるCopyright owner agreementをスキップする拡張
+ビルド後に出てくる`Copyright owner agreement`をスキップする拡張
 
 完全無保証、自己責任でご使用ください
 
